@@ -1,0 +1,22 @@
+{
+  "linter": {
+    "enabled": true,
+    "rules": {
+      "recommended": true
+    }
+  },
+  "formatter": {
+    "enabled": true,
+    "formatWithErrors": false,
+    "indentStyle": "space",
+    "indentSize": 2,
+    "lineWidth": 80,
+    "ignore": []
+  },
+  "javascript": {
+    "formatter": {
+      "trailingComma": "es5",
+      "semicolons": "asNeeded"
+    }
+  }
+}
